@@ -1,0 +1,12 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/March-Madness-Bayesian-Predictor/FileContentIndex
+/.vs/March-Madness-Bayesian-Predictor/v17/.wsuo
+/.vs/March-Madness-Bayesian-Predictor/v17/DocumentLayout.backup.json
+/.vs/March-Madness-Bayesian-Predictor/v17/DocumentLayout.json
+/.vs/PythonSettings.json
+/.vs/slnx.sqlite
+/.vs/slnx.sqlite-journal
+/.vs/VSWorkspaceState.json
